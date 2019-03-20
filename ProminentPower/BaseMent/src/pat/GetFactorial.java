@@ -1,4 +1,4 @@
-package nowcoder.campusRecurit;
+package pat;
 
 import java.math.BigInteger;
 import java.util.Scanner;
