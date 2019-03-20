@@ -1,4 +1,4 @@
-package nowcoder;
+package nowcoder.campusRecurit;
 
 import java.math.BigDecimal;
 import java.util.*;
