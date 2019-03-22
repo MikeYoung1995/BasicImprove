@@ -2,15 +2,15 @@ package data_structure.linearlist;
 
 public class DoubleLink<T> {
 
-    private class Node<T> {
-        /**
-         * 节点值
-         */
+            private class Node<T> {
+                /**
+                 * 节点值
+                 */
 
-        private T vlaue;
-        /**
-         * 前一个节点
-         */
+                private T vlaue;
+                /**
+                 * 前一个节点
+                 */
 
         private Node<T> prev;
         /**
