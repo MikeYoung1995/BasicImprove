@@ -1,6 +1,5 @@
-package data_structure.linearlist;
+package data_structure.linklist;
 
-import java.util.Scanner;
 /**
  * This code is edited in 2019.3.14
  */

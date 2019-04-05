@@ -1,4 +1,4 @@
-package data_structure.linearlist;
+package data_structure.linklist;
 
 /**
  * Java实现单链表

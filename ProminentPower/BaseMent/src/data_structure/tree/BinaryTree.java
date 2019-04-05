@@ -11,7 +11,7 @@ import java.util.Queue;
 class TreeNode {
     int val = 0;
     TreeNode left = null;
-    TreeNode right = null;
+    TreeNode right = null; //成员变量 存在JVM的
 
     public TreeNode(int val) {
         this.val = val;

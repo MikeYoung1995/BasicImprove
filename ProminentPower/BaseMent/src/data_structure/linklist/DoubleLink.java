@@ -1,4 +1,4 @@
-package data_structure.linearlist;
+package data_structure.linklist;
 
 public class DoubleLink<T> {
 
