@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e17584f-9554-48ba-8aa9-a8807257c1e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/practice/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/practice/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/practice/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/practice/Solution.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/LinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="294">
+              <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -70,17 +69,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/SingleLinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            <state relative-caret-position="246">
+              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="28" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/practice/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution003.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="319">
+              <caret line="50" column="26" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="50" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/OrderArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -140,6 +169,10 @@
         <option value="$PROJECT_DIR$/src/data_structure/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/javabase/VariableTest.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/practice/Solution.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution001.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution002.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution003.java" />
       </list>
     </option>
   </component>
@@ -150,10 +183,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="42" />
-    <option name="y" value="303" />
+    <option name="x" value="7" />
+    <option name="y" value="90" />
     <option name="width" value="1318" />
-    <option name="height" value="751" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,7 +210,33 @@
               <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
               <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="linklist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
@@ -211,7 +270,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="basement" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554596297698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554599995136" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/data_structure/linearlist" />
     <property name="last_opened_file_path" value="F:/Git/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -238,20 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.tree.BinaryTree" />
-      <module name="BaseMent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution003">
     <configuration name="DigitalClassify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder.campusRecurit.DigitalClassify" />
       <module name="BaseMent" />
@@ -265,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.practice.Solution" />
+    <configuration name="Solution001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.jianzhioffer.Solution001" />
       <module name="BaseMent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcoder.practice.*" />
+          <option name="PATTERN" value="nowcoder.jianzhioffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +324,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeNode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.tree.TreeNode1" />
+    <configuration name="Solution002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.jianzhioffer.Solution002" />
       <module name="BaseMent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.tree.*" />
+          <option name="PATTERN" value="nowcoder.jianzhioffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.jianzhioffer.Solution003" />
+      <module name="BaseMent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.jianzhioffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution003" />
+        <item itemvalue="Application.Solution002" />
+        <item itemvalue="Application.Solution001" />
         <item itemvalue="Application.DigitalClassify" />
         <item itemvalue="Application.VariableTest" />
-        <item itemvalue="Application.TreeNode1" />
-        <item itemvalue="Application.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -344,18 +403,18 @@
       <workItem from="1554462823443" duration="588000" />
       <workItem from="1554542255259" duration="593000" />
       <workItem from="1554555881171" duration="4049000" />
-      <workItem from="1554595581658" duration="688000" />
+      <workItem from="1554595581658" duration="4271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108218000" />
+    <option name="totallyTimeSpent" value="111801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28290468" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29727685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,13 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/OrderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pat/GetFactorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -503,20 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/SingleLinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javabase/VariableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
@@ -524,10 +562,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/practice/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/OrderArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/SingleLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Solution003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="50" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
