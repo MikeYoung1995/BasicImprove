@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e17584f-9554-48ba-8aa9-a8807257c1e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/practice/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/practice/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linearlist/DoubleLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linklist/DoubleLink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linearlist/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linklist/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linearlist/LinkListMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linearlist/SingleLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linklist/SingleLinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/tree/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/META-INF/BaseMent.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linearlist/DoubleLink$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linearlist/DoubleLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linearlist/LinkList$Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linearlist/LinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linearlist/LinkListMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linearlist/SingleLinkList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linearlist/SingleLinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/tree/TreeNode1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/tree/TreeNode1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/SingleLinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="418">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/practice/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -142,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/javabase/JavaTest01.java" />
         <option value="$PROJECT_DIR$/src/data_structure/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/javabase/VariableTest.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/practice/Solution.java" />
       </list>
     </option>
   </component>
@@ -151,9 +149,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="83" />
-    <option name="y" value="49" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="42" />
+    <option name="y" value="303" />
     <option name="width" value="1318" />
     <option name="height" value="751" />
   </component>
@@ -163,7 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,12 +184,13 @@
               <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="campusRecurit" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -213,7 +211,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="basement" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554439856680" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554596297698" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/data_structure/linearlist" />
     <property name="last_opened_file_path" value="F:/Git/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -240,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DigitalClassify">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.tree.BinaryTree" />
       <module name="BaseMent" />
@@ -267,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateDigital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder.jianzhioffer.DuplicateDigital" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.practice.Solution" />
       <module name="BaseMent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcoder.jianzhioffer.*" />
+          <option name="PATTERN" value="nowcoder.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.DigitalClassify" />
         <item itemvalue="Application.VariableTest" />
         <item itemvalue="Application.TreeNode1" />
         <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.DuplicateDigital" />
       </list>
     </recent_temporary>
   </component>
@@ -343,17 +341,21 @@
       <workItem from="1554378150003" duration="1275000" />
       <workItem from="1554434635402" duration="1604000" />
       <workItem from="1554446612353" duration="937000" />
+      <workItem from="1554462823443" duration="588000" />
+      <workItem from="1554542255259" duration="593000" />
+      <workItem from="1554555881171" duration="4049000" />
+      <workItem from="1554595581658" duration="688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102300000" />
+    <option name="totallyTimeSpent" value="108218000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26626325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28290468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,13 +364,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2612903" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2612903" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32903227" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.10483871" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -508,6 +510,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/SingleLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javabase/VariableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
@@ -515,10 +524,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/linklist/SingleLinkList.java">
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/practice/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="161">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
         </state>
       </provider>
     </entry>
