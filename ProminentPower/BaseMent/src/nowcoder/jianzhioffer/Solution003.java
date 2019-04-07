@@ -45,10 +45,7 @@ public class Solution003 {
       listNode.next.next.next=new ListNode(6);
       listNode.next.next.next.next=new ListNode(7);
       listNode.next.next.next.next.next=new ListNode(8);
-
-
-
-        System.out.println(printListFromTailToHead(listNode));
+      System.out.println(printListFromTailToHead(listNode));
 
 
     }
