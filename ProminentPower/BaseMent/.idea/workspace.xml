@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40dc5598-24ed-4daa-985b-433e523ef660" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linklist/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linklist/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/array/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/array/Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="152">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -57,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/data_structure/linklist/LinkList.java" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java" />
       </list>
     </option>
   </component>
@@ -148,7 +143,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556370365646" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556370458731" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -224,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556368617646</updated>
-      <workItem from="1556368623050" duration="1736000" />
+      <workItem from="1556368623050" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1736000" />
+    <option name="totallyTimeSpent" value="1829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -342,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="152">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
