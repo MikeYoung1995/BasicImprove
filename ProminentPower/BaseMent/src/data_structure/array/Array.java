@@ -5,6 +5,7 @@ package data_structure.array;
  * 我们假设数组中没有重复值（实际上数组可以包含重复值）
  *更新了一些东西
  * 更新了一些东西
+ * 更i性能啦啦啦
  */
 public class Array {
 
