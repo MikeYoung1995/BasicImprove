@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e17584f-9554-48ba-8aa9-a8807257c1e5" name="Default Changelist" comment="青蛙跳台阶">
-      <change afterPath="$PROJECT_DIR$/../../Solution003.Java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linklist/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linklist/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution004x.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution004x.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/Array.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/data_structure/array/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="114">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -151,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -192,6 +185,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,6 +349,7 @@
       <workItem from="1555943633071" duration="597000" />
       <workItem from="1556014927740" duration="1261000" />
       <workItem from="1556360863110" duration="705000" />
+      <workItem from="1556365804477" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="//在二维数组中查找一个数字">
       <created>1554610292315</created>
@@ -409,13 +404,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149476000" />
+    <option name="totallyTimeSpent" value="150083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17473525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -746,8 +741,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure/array/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
