@@ -3,7 +3,7 @@ package data_structure.array;
 /**
  * somthing has Changed
  * 松木
- * 松木
+ * something has changed
  */
 public class Array {
 
