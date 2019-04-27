@@ -22,6 +22,12 @@ public class LinkList {
         header.next=null;
     }
 
+<<<<<<< HEAD
+=======
+    /**
+     * 插入链表  //尾插法
+     * */
+>>>>>>> 07d95fa46b912b830f6cf31f5a89ab50c0e644be
     void insertList(Object o)
     {
         Element e=new Element();  //新建节点
