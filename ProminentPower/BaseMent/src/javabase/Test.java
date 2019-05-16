@@ -1,9 +1,11 @@
-package data_structure;
+package javabase;
 
 public class Test  {
 
     String var_1="我是外部类非静态成员变量";
     static String var_2="我是外部类静态成员变量";
+
+//    public abstract static name(); Java中不能定义抽象静态方法
 
 
     /**
@@ -44,7 +46,6 @@ public class Test  {
         System.out.println(innerClassA.name="张三");
         innerClassA.getTest();
         staticInnerClassA.getTest1();
-        System.out.println(staticInnerClassA.var1);
         System.out.println(staticInnerClassA.var2);
         System.out.print(staticInnerClassA.var3);
 
