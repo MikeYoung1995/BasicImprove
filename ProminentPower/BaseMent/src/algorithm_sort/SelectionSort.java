@@ -27,23 +27,13 @@ public class SelectionSort {
                                         array[j] = array[j+1];
                                         array[j+1] =tmp;
                                 }
-
                         }
                 }
-
                 System.out.println("排序后的顺序为");
                 for(int m=0;m<array.length;m++)
                 {
                         System.out.print(array[m]+" ");
                 }
-
-
-
-
-
-
         }
-
-
 
 }

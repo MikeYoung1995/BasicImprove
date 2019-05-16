@@ -11,7 +11,7 @@ package javabase;
  *  *  *       ----类属性 （static修饰）
  *  *  *               随着类的存在而存在
  */
-public class VariableTest {
+ class VariableTest { //不写就是default 只能同包访问    protected 只能同包 以及子类访问
 
     //初始化过的成员变量
 //    public static String  withStatic_name="这是一个成员变量"; //类变量 类属性
