@@ -1,4 +1,4 @@
-package javabase;
+package javabase.sytaxbasement;
 
 /**
  * Java 局部变量 全局变量

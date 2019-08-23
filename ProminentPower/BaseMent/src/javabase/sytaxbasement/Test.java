@@ -1,4 +1,4 @@
-package javabase;
+package javabase.sytaxbasement;
 
 public class Test  {
 

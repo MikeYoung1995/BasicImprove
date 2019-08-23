@@ -2,16 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40dc5598-24ed-4daa-985b-433e523ef660" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javabase/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabase/sytaxbasement/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BaseMent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BaseMent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm_sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm_sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm_sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm_sort/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabase/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabase/VariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabase/AccessSymbolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabase/sytaxbasement/AccessSymbolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabase/Genericity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabase/sytaxbasement/Genericity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabase/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabase/sytaxbasement/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabase/ThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabase/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabase/sytaxbasement/VariableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/javabase/VariableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/javabase/VariableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Array_times.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Array_times.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/BubbleSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/algorithm_sort/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/Test$InnerClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/Test$StaticInnerClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/array/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/DoubleLink$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/DoubleLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/LinkList$Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/ListOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/NodeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/SingleLinkList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/linklist/SingleLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/quene/Quene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/data_structure/tree/TreeNode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/javabase/AccessSymbolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/javabase/Genericity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/javabase/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/javabase/VariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/campusRecurit/DigitalClassify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Array_times.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/DuplicateDigital.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/OrderArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution004x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution006x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/Solution009x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/nowcoder/jianzhioffer/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/BaseMent/pat/GetFactorial.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,59 +64,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm_sort/Sort.java">
+        <entry file="file://$PROJECT_DIR$/src/javabase/network/Network.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javabase/ThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="456">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm_sort/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data_structure/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm_sort/BubbleSortTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javabase/VariableTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
-              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javabase/AccessSymbolTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javabase/Genericity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="210">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -84,9 +107,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -103,16 +132,29 @@
         <option value="$PROJECT_DIR$/src/algorithm_sort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/algorithm_sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/javabase/VariableTest.java" />
-        <option value="$PROJECT_DIR$/src/javabase/ThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/javabase/AccessSymbolTest.java" />
         <option value="$PROJECT_DIR$/src/data_structure/Test.java" />
+        <option value="$PROJECT_DIR$/src/javabase/abstract_class_and_interface/Test.java" />
+        <option value="$PROJECT_DIR$/src/javabase/abstract_class_and_interface/TestInface.java" />
+        <option value="$PROJECT_DIR$/src/javabase/Test.java" />
+        <option value="$PROJECT_DIR$/src/algorithm_sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/javabase/AccessSymbolTest.java" />
+        <option value="$PROJECT_DIR$/src/javabase/Juhedemo.java" />
+        <option value="$PROJECT_DIR$/src/javabase/JuheDemo.java" />
+        <option value="F:/app.java" />
+        <option value="$PROJECT_DIR$/src/javabase/StockAPI_Test.java" />
+        <option value="$PROJECT_DIR$/src/javabase/libs/ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/javabase/ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/javabase/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/javabase/sytaxbasement/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/javabase/network/Network.java" />
+        <option value="$PROJECT_DIR$/src/algorithm_sort/BubbleSortTest1.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-45" />
-    <option name="y" value="252" />
-    <option name="width" value="1318" />
+    <option name="x" value="185" />
+    <option name="y" value="34" />
+    <option name="width" value="842" />
     <option name="height" value="745" />
   </component>
   <component name="ProjectView">
@@ -144,13 +186,7 @@
               <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
               <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BaseMent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BaseMent" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,11 +201,20 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557988706134" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562468122175" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\GitCode\Basic\ProminentPower\BaseMent\src\javabase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\GitCode\Basic\ProminentPower\BaseMent\src\javabase\libs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,11 +230,11 @@
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration name="AccessSymbolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabase.AccessSymbolTest" />
+      <option name="MAIN_CLASS_NAME" value="javabase.sytaxbasement.AccessSymbolTest" />
       <module name="BaseMent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabase.*" />
+          <option name="PATTERN" value="javabase.sytaxbasement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +269,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.Test" />
+      <option name="MAIN_CLASS_NAME" value="javabase.sytaxbasement.Test" />
       <module name="BaseMent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.*" />
+          <option name="PATTERN" value="javabase.sytaxbasement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +282,11 @@
       </method>
     </configuration>
     <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabase.ThreadPool" />
+      <option name="MAIN_CLASS_NAME" value="javabase.sytaxbasement.ThreadPool" />
       <module name="BaseMent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabase.*" />
+          <option name="PATTERN" value="javabase.sytaxbasement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,18 +325,47 @@
       <workItem from="1557450985467" duration="5248000" />
       <workItem from="1557548829853" duration="710000" />
       <workItem from="1557897949277" duration="3547000" />
-      <workItem from="1557987658367" duration="976000" />
+      <workItem from="1557987658367" duration="6969000" />
+      <workItem from="1558060128510" duration="942000" />
+      <workItem from="1558100902617" duration="224000" />
+      <workItem from="1558149636968" duration="11922000" />
+      <workItem from="1558192044687" duration="599000" />
+      <workItem from="1558266073697" duration="336000" />
+      <workItem from="1558348605848" duration="1195000" />
+      <workItem from="1558397079154" duration="799000" />
+      <workItem from="1558483132988" duration="1701000" />
+      <workItem from="1558956918347" duration="904000" />
+      <workItem from="1558964889442" duration="591000" />
+      <workItem from="1559003431229" duration="474000" />
+      <workItem from="1559108464517" duration="1204000" />
+      <workItem from="1559178964690" duration="584000" />
+      <workItem from="1559268381238" duration="596000" />
+      <workItem from="1559470588204" duration="597000" />
+      <workItem from="1559471779264" duration="593000" />
+      <workItem from="1559527607330" duration="1797000" />
+      <workItem from="1559623214323" duration="586000" />
+      <workItem from="1559630795382" duration="1155000" />
+      <workItem from="1559700223388" duration="920000" />
+      <workItem from="1559800153983" duration="424000" />
+      <workItem from="1561376945614" duration="606000" />
+      <workItem from="1561516867767" duration="1018000" />
+      <workItem from="1561533698446" duration="5401000" />
+      <workItem from="1562468075045" duration="645000" />
+      <workItem from="1565777540484" duration="597000" />
+      <workItem from="1565834926585" duration="593000" />
+      <workItem from="1566454181584" duration="1432000" />
+      <workItem from="1566537435296" duration="261000" />
+      <workItem from="1566545476264" duration="421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21918000" />
+    <option name="totallyTimeSpent" value="67028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21406959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13103953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -300,7 +374,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.04418985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -420,20 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm_sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm_sort/BubbleSort1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-428">
@@ -448,6 +508,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/Program/Java/jdk1.8.0_211/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="73" column="7" lean-forward="true" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program/Java/jdk1.8.0_211/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="105" column="43" lean-forward="true" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program/Java/jdk1.8.0_211/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="241" column="13" lean-forward="true" selection-start-line="241" selection-start-column="13" selection-end-line="241" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm_sort/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -455,42 +536,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javabase/ThreadPool.java">
+    <entry file="file://$PROJECT_DIR$/src/javabase/JuheDemo.java" />
+    <entry file="file://F:/app.java" />
+    <entry file="file://$PROJECT_DIR$/src/javabase/StockAPI_Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/javabase/ThreadPoolTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/javabase/abstract_class_and_interface/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javabase/abstract_class_and_interface/TestInface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javabase/sytaxbasement/AccessSymbolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javabase/sytaxbasement/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javabase/VariableTest.java">
+    <entry file="file://$PROJECT_DIR$/src/javabase/sytaxbasement/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javabase/AccessSymbolTest.java">
+    <entry file="file://$PROJECT_DIR$/src/javabase/sytaxbasement/Genericity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="133">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javabase/Genericity.java">
+    <entry file="file://$PROJECT_DIR$/src/javabase/sytaxbasement/VariableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="205">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/javabase/network/Network.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="456">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/jianzhioffer/Array_times.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm_sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm_sort/BubbleSortTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>

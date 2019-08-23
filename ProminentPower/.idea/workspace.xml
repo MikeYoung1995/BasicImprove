@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73167fb1-e3b4-45f9-abc0-401599414a9e" name="Default Changelist" comment="vcxvcxzvxcgfvd" />
+    <list default="true" id="73167fb1-e3b4-45f9-abc0-401599414a9e" name="Default Changelist" comment="vcxvcxzvxcgfvd">
+      <change beforePath="$PROJECT_DIR$/BaseMent/.idea/BaseMent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BaseMent/.idea/BaseMent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseMent/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BaseMent/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseMent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BaseMent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseMent/src/javabase/AccessSymbolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaseMent/src/javabase/AccessSymbolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BaseMent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/algorithm_sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/algorithm_sort/BubbleSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/algorithm_sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/algorithm_sort/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/Test$InnerClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/Test$StaticInnerClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/array/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/DoubleLink$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/DoubleLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/LinkList$Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/ListOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/NodeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/SingleLinkList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/linklist/SingleLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/quene/Quene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/data_structure/tree/TreeNode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/javabase/AccessSymbolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/javabase/Genericity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/javabase/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/javabase/VariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/campusRecurit/DigitalClassify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Array_times.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/DuplicateDigital.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/OrderArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution004x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution006x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/Solution009x.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/nowcoder/jianzhioffer/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BaseMent/pat/GetFactorial.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +76,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,10 +129,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="816" />
-    <option name="y" value="16" />
-    <option name="width" value="560" />
-    <option name="height" value="753" />
+    <option name="x" value="-13" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,15 +168,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552579566435" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BaseMent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -277,6 +323,7 @@
       <workItem from="1552522946592" duration="590000" />
       <workItem from="1552537494012" duration="14426000" />
       <workItem from="1552584411119" duration="270000" />
+      <workItem from="1558956824920" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="oo">
       <created>1550592668059</created>
@@ -303,12 +350,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60224000" />
+    <option name="totallyTimeSpent" value="60294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21028744" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21331316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,7 +370,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.42580646" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.7419355" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.016129032" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.98872787" />
@@ -384,13 +431,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Program/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Program/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/Interface/src/ConnectMysql.java" />
     <entry file="file://$PROJECT_DIR$/Interface/src/Restore.java" />
     <entry file="file://$PROJECT_DIR$/Interface/src/Test.java" />
@@ -413,13 +454,7 @@
     <entry file="file://$PROJECT_DIR$/Interface/src/data_structure/linearlist/LinkListMain.java" />
     <entry file="file://$PROJECT_DIR$/Interface/src/data_structure/linearlist/LinkList.java" />
     <entry file="file://$PROJECT_DIR$/Interface/src/data_structure/linearlist/DoubleLinkList.java" />
-    <entry file="jar://E:/Program/Java/jdk1.8.0_131/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="2420" lean-forward="true" selection-start-line="2420" selection-end-line="2420" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Program/Java/jdk1.8.0_131/src.zip!/java/util/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/Interface/src/data_structure/linearlist/SingleLinkList.java" />
   </component>
   <component name="masterDetails">

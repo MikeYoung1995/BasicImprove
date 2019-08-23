@@ -1,4 +1,4 @@
-package javabase;
+package javabase.sytaxbasement;
 
 import java.util.ArrayList;
 import java.util.List;
