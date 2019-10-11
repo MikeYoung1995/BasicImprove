@@ -16,12 +16,12 @@ package javabase.abstract_class_and_interface;
  * (3) 都可以包含方法声明
  * (4) 派生类必须实现未实现的方法
  */
-
+//抽象方法没有方法体
 public abstract class Test {
     public abstract void name();//抽象类中可以有抽象方法
     public void name(String name) {//抽象类中可以有非抽象的方法
         System.out.println(name);
-    }
+    } //可以有非抽象方法
 
     //构造方法没有返回类型
     public Test() {
